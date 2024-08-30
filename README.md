@@ -1,5 +1,10 @@
 Project Ongoing......
 
+Give conditions to token minting  
+ex) verify with kakaoTalk login 
+
+
+![image](https://github.com/user-attachments/assets/7b8dfff4-e251-441b-b19c-30bd7039cabc)
 
 ![image](https://github.com/user-attachments/assets/df0ed2e2-de6d-43ba-bac5-5d64093f4831)
 
